@@ -38,3 +38,5 @@ Collaborate: Join me on some projects if you're interested.
 Let's embark on this incredible learning journey together and become web development pros! 💻🌟
 
 #WebDevelopment #100DaysOfCode #CodingJourney #LearnToCode #JavaScript #HTML #CSS #React #NodeJS #FullStackDevelopment #TechCommunity
+
+![Web dev](https://github.com/sumitkumargarssa/100-Web-Development-Series-Project/assets/95330561/bc7f9bf2-40ad-4d0c-93ed-9d5369fef252)
