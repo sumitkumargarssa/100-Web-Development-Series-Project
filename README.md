@@ -27,8 +27,11 @@ Tips and Tricks
 Common Pitfalls and Solutions
 🌐 Follow My Journey:
 Connect with me on LinkedIn:https://www.linkedin.com/in/sumitkumargarsa/
+
 GitHub Repository: [Link to GitHub Repository with Projects]
+
 Live Demos: [Link to Live Demo Site]
+
 💬 Get Involved:
 Your feedback and participation are highly encouraged! Feel free to:
 
