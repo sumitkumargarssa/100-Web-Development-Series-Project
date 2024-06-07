@@ -26,7 +26,9 @@ Best Practices
 Tips and Tricks
 Common Pitfalls and Solutions
 🌐 Follow My Journey:
-Connect with me on LinkedIn:https://www.linkedin.com/in/sumitkumargarsa/
+Connect with me on 
+
+LinkedIn:https://www.linkedin.com/in/sumitkumargarsa/
 
 GitHub Repository: [Link to GitHub Repository with Projects]
 
